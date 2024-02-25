@@ -3,11 +3,11 @@
 
 I'm a student and frontend developer based in Kathmandu, Nepal. Currently, I'm pursuing my passion for technology and AI while expanding my skills in Node.js and backend development. 🚀
 
-#### About Antarikshya
+#### 🔐About Antarikshya
 
 I'm the proud founder of Antarikshya, an IT company that reflects my dedication to innovation and excellence. Through Antarikshya, I aim to explore the limitless possibilities of technology and provide cutting-edge solutions.
 
-#### What I Love
+#### 🖇️What I Love
 
 - 💻 Frontend Development: Crafting beautiful and responsive user interfaces is my forte.
 - 🌐 Backend Learning: Delving into the world of Node.js and backend development to create robust applications.
@@ -16,7 +16,6 @@ I'm the proud founder of Antarikshya, an IT company that reflects my dedication 
 Feel free to explore my repositories and reach out if you share similar interests or have exciting collaboration ideas. Let's build the future together! 🌟
 
 
-##Gif
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
