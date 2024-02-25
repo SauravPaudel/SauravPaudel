@@ -15,10 +15,7 @@ Hey , I'm Saurav Paudel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SauravPaudel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SauravPaudel&theme=tokyonight&hide_border=true)<br/>
-<div align="left">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravPaudel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravPaudel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SauravPaudel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
