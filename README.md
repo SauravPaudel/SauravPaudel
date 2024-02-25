@@ -1,6 +1,20 @@
 # 💫 About Me:
-Hey , I'm Saurav Paudel
-🔭 I’m currently working on Antariskshya <br>👯 I’m looking to collaborate on Open Source <br>🤝 I’m looking for help with you Guys <br>🌱 I’m currently learning Node js <br>💬 Ask me about<br>⚡ Fun fact
+### Hi there! 👋 I'm Saurav Paudel
+
+I'm a student and frontend developer based in Kathmandu, Nepal. Currently, I'm pursuing my passion for technology and AI while expanding my skills in Node.js and backend development. 🚀
+
+#### About Antarikshya
+
+I'm the proud founder of Antarikshya, an IT company that reflects my dedication to innovation and excellence. Through Antarikshya, I aim to explore the limitless possibilities of technology and provide cutting-edge solutions.
+
+#### What I Love
+
+- 💻 Frontend Development: Crafting beautiful and responsive user interfaces is my forte.
+- 🌐 Backend Learning: Delving into the world of Node.js and backend development to create robust applications.
+- 🚀 Technology and AI: My enthusiasm for technology and AI drives my continuous learning and exploration.
+
+Feel free to explore my repositories and reach out if you share similar interests or have exciting collaboration ideas. Let's build the future together! 🌟
+
 
 ##Gif
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -32,4 +46,3 @@ Hey , I'm Saurav Paudel
 ---
 [![](https://visitcount.itsvg.in/api?id=SauravPaudel&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
