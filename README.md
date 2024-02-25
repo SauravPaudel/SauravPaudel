@@ -2,6 +2,9 @@
 Hey , I'm Saurav Paudel
 🔭 I’m currently working on Antariskshya <br>👯 I’m looking to collaborate on Open Source <br>🤝 I’m looking for help with you Guys <br>🌱 I’m currently learning Node js <br>💬 Ask me about<br>⚡ Fun fact
 
+##Gif
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sau.rav.750331/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sauravpaudell/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurav-paudel-b3677617b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Sauravpaudel8848) 
