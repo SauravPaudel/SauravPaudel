@@ -1,9 +1,13 @@
 # 💫 About Me:
 ### Hi there! 👋 I'm Saurav Paudel
+<<<<<<< HEAD
 
 <div align="center">
   <img width="100%" src="https://github.com/SauravPaudel/SauravPaudel/main/images/Gray Aesthetic Beauty Lifestyle YouTube Banner.png" alt="cover" />
 </div>
+=======
+![Cover](cover.png)
+>>>>>>> 471a4b8 (ch)
 
 I'm a student and frontend developer based in Kathmandu, Nepal. Currently, I'm pursuing my passion for technology and AI while expanding my skills in Node.js and backend development. 🚀
 
